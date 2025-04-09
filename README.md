@@ -54,7 +54,7 @@
   <a href="mailto:ldydavi444@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://seu-portfolio.vercel.app">
+  <a href="https://portfolio-luidhy-davi.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </p>
