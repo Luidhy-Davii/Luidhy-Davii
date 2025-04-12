@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Front--End_Developer-%237f5af0?style=for-the-badge&logoColor=white" alt="Front-End Developer">
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-%230077B5?style=for-the-badge" alt="Open to Opportunities">
 </div>
 
 ---
