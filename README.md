@@ -35,7 +35,7 @@
 
 ### 🏆 Projetos Destacados
 
-- 🎧 **Recriação do Spotify**: Interface moderna usando HTML e CSS.
+- 🐾 **PetPark**: Projeto para um petShop, feito em HTML e CSS.
 - 🧖‍♀️ **Site para Spa**: Projeto com estilização avançada usando SASS.
 - ☕ **Cafeteria Website**: Site institucional completo com HTML, SASS e Vite.
 - ✉️ **Newsletter Page**: Tela principal de newsletter com Tailwind CSS.
