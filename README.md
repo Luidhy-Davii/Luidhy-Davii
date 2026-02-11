@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 **Ciência da Computação** na UNIP (6º semestre)
+- 🎓 **Ciência da Computação** na UNIP (7º semestre)
 - 💻 **Devsenvolvedor web**
 - 🚀 Sempre em busca de evolução, desafios e oportunidades no mundo da tecnologia
 
