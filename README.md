@@ -3,12 +3,14 @@
 </h1>
 
 <p align="center">
-  🌐 <strong>Desenvolvedor Front-End</strong> | Transformando ideias em interfaces fluidas e de alto desempenho
+  🌐 <strong>Desenvolvedor Front-End</strong> <br>
+  Transformando ideias em interfaces fluidas e sistemas seguros
 </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Front--End_Developer-%237f5af0?style=for-the-badge&logoColor=white" alt="Front-End Developer">
   <img src="https://img.shields.io/badge/React_Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Developer">
+  <img src="https://img.shields.io/badge/Python_Dev-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer">
 </div>
 
 
@@ -17,10 +19,9 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 **Ciência da Computação** (7º semestre).
-- 🔭 Atualmente desenvolvendo o **Cena**, uma plataforma de recomendação de filmesfocada em **UX e Performance**.
-- 🧪 Aprofundando conhecimentos em **React Hooks**, **GSAP Animations** e consumo de **APIs REST**.
-- 🚀 Buscando evolução constante através de projetos reais e desafios técnicos.
+- 🎓 **Ciência da Computação** na UNIP (7º semestre).
+- 🔭 Desenvolvendo o **Cena**, uma plataforma de indicação de filmes e séries focada em **UX, Performance e APIs**.
+- 🚀 Buscando evolução constante em **React Hooks**, **GSAP** e **Clean Code**.
 
 ---
 
@@ -29,11 +30,11 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" alt="GSAP">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 </p>
 
@@ -41,10 +42,11 @@
 
 ### 🏆 Projetos em Destaque
 
-- 🎬 **Cena**: Interface de streaming consumindo a API do TMDB. Implementado com **React**, **SASS** e **GSAP** para animações imersivas, sistema de paginação dinâmico e design responsivo extremo.
-- 🧖‍♀️ **Spa Website**: Projeto focado em estilização avançada e arquitetura CSS escalável usando SASS.
-- ☕ **Cafeteria Website**: Site institucional completo com foco em SEO e performance utilizando Vite.
-- ✉️ **Newsletter Page**: Landing page moderna desenvolvida com Tailwind CSS.
+- 🎬 **Cena**: Interface de streaming consumindo a API do TMDB. Foco em animações imersivas com **GSAP**, paginação dinâmica e design responsivo extremo.
+- 🔐 **CryptoLab**: Sistema de criptografia desenvolvido em **Python**. Um estudo sobre algoritmos de segurança, manipulação de dados e lógica de programação.
+- ⛪ **Projeto IMPULSO**: Site institucional para grupo jovem de igreja. Desenvolvido com **HTML, CSS, JavaScript e Particles.js** para uma experiência visual dinâmica.
+- 🧖‍♀️ **Spa Website**: Projeto focado em arquitetura CSS escalável e estilização avançada com **SASS**.
+- ☕ **Cafeteria Website**: Site institucional completo com foco em SEO e performance utilizando **Vite**.
 
 ---
 
